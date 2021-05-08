@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to right, #003300 0%, #666633 100%);
+    
+}
+.heading{
+    font-size: 70px;
+    padding: 30px;
+}
+.input,.buttons,.heading{
+    justify-content: center;
+}
+.input input{
+    text-align: center;
+    line-height: 2em;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
